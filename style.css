@@ -1,0 +1,69 @@
+h1 {
+    text-align:center;
+    margin:20px;
+    padding:10px;
+    font-variant: small-caps;
+}
+h2 {
+    text-align:center;
+    margin:20px;
+    padding:05px;
+    font-variant: small-caps;
+}
+li {
+    display: inline;
+    padding:100px;
+    font-variant:small-caps;
+    font-size: 20px;
+}
+p {
+    text-align: justify;
+    margin:20px;
+    padding:10px;
+    word-spacing:0em;
+}
+footer {
+    font-variant: small-caps;
+    text-align-last:center;
+
+   
+
+}
+div {
+    border:05px solid black;
+    width:45%;
+    height:150px;
+    border-radius:10px,0,10px,0;
+    margin:20px;
+    padding:1px;
+    float: left;
+    background-image:url(images/forms.jpg);
+    border-radius:0 15px 15px 0;
+
+    
+}
+#id-one {
+    float:right;
+    object-position: right;
+    padding:1px;
+    width:45%;
+    height:150px;
+    border-radius:15px 0 0 15px;
+
+}
+body {
+    background-image: linear-gradient(30deg,pink,white);
+    background-image: url(images/img_tree.png);
+    background-repeat:no-repeat;
+    background-position:top right;
+    border:01px solid black;
+    margin:0 auto;
+
+}
+span {
+    color:greenyellow;
+}
+marquee {
+    font-variant:small-caps;
+    font-size:
+}
